@@ -17,12 +17,12 @@ const Navbar = () => {
         <div className="container">
           <nav>
             <ul>
-              <li>
+              {/* <li>
                 <NavLink to={"/research"}>Research</NavLink>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <NavLink to={"/news"}>News</NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink to={"/team"}>Teams</NavLink>
               </li>
@@ -32,9 +32,9 @@ const Navbar = () => {
               <li>
                 <NavLink to={"/education"}>Teaching</NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink to={"/group-activities"}>Group Activities</NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink to={"/technology"}>Technology</NavLink>
               </li>
@@ -43,6 +43,12 @@ const Navbar = () => {
               </li>
               <li>
                 <NavLink to={"/consultancy"}>Consultancy</NavLink>
+              </li>
+              <li>
+                <NavLink to={"/awards"}>Awards</NavLink>
+              </li>
+              <li>
+                <NavLink to={"/affiliations"}>Affiliations</NavLink>
               </li>
             </ul>
           </nav>

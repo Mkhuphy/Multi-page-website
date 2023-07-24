@@ -36,6 +36,7 @@ const Team = () => {
                                     
                                     <p>{item.designation}</p>
                                     <p>Email:  {item.email}</p>
+                                    <p>Office:  {item.office}</p>
                                     <p>Office Phone: {item.mobile}</p>
                                     <p>Specialization: {item.specialization}</p>
                                     <p>Research Interest: {item.research_interest}</p>

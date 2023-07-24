@@ -636,7 +636,8 @@ export const principal_Member=[
         imgpath:'https://res.cloudinary.com/udghosh/image/upload/v1690024460/oevbgkrrolwjugmloszh.jpg',
         specialization:'JEnvironmental Engineering',
         link:'https://www.iitk.ac.in/new/abhas-singh',
-        research_interest:'Environmental geochemistry of heavy metals and inorganic contaminants, Investigate physical and chemical processes such as adsorption, precipitation, and reduction-oxidation occurring at mineral-water-microbial interfaces, and relate them to larger scales, Predict inorganic contaminant fate and transport through surface complexation and flow-through reactor modeling, Develop tools to target contaminant remediation in natural as well as engineered environments.'
+        research_interest:'Environmental geochemistry of heavy metals and inorganic contaminants, Investigate physical and chemical processes such as adsorption, precipitation, and reduction-oxidation occurring at mineral-water-microbial interfaces, and relate them to larger scales, Predict inorganic contaminant fate and transport through surface complexation and flow-through reactor modeling, Develop tools to target contaminant remediation in natural as well as engineered environments.',
+        office: "FB-306, Department of Civil Engineering, IIT Kanpur, Kanpur 208016",
     },
 ]
 export const teams=[
@@ -954,4 +955,56 @@ export const consultancy_content=[
         title: "Akvo Development Tools and Services Pvt. Ltd. (AKVO), New Delhi Development of a field test for arsenic in water",
         period: "Jul 2016-Jun 2017",
     }
+]
+export const awards=[
+    {
+        title: 'IIT Kanpur teaching citation for Environmental Quality and Pollution Monitoring Techniques course taught in 2018-19-II',
+    },
+    {
+        title: 'Implementation of biodegradable waste segregation at source and composting for residential campus of IIT Kanpur featured on World Environment Day Jun5, 2019 https://youtu.be/a-U01NkAUx4 2019',
+    },
+    {
+        title: '2nd Outstanding Oral Presentation, Bandyopadhyay, T. and Singh, A. Removal of hexavalent chromium from groundwater using electrocoagulation. National Environmental Conference (NEC) IIT Bombay, Diamond Jubilee Year, Jan 2019',
+    },
+    {
+        title: 'IIT Kanpur teaching citation for Physicochemical Principles and Processes course taught in 2018-19-I, 2016-17-I, 2015-16-I 2016, 17, 19',
+    },
+    {
+        title: 'Student Travel Grant for Aravinth Subramaniam, 28th Goldschmidt Conference, August, Boston, MA, USA Year 2018.',
+    },
+    {
+        title: 'Best Poster Award, Nilling, J.J., Verma, A., and Singh, A. Geochemical analysis of arsenic speciation in groundwater, In house symposium, Centre for Environmental Science and Engineering, IIT Kanpur. 2018',
+    },
+    {
+        title: 'IITK teaching citation for Surface Water Quality Modeling course taught in 2017-18-II',
+    },
+    {
+        title: '4th Best Poster Award, Nilling, J.J., Verma, A., and Singh, A. Geochemical analysis of arsenic speciation in groundwater, 7th International Ground Water Conference, New Delhi. 2017',
+    },
+    {
+        title: 'IITK teaching citation for Advanced Topics in Environmental Eng: Contaminant Fate and Transport in the Subsurface course module taught in 2013-14-II',
+    },
+    {
+        title: 'Competitive beamtime awarded on XAFS study of the effect of phosphate on uranium immobilization mechanisms in uranium(VI)-phosphate-iron(III) oxide systems for access to Synchrotron Facility, Advanced Photon Source, Chicago, USA. 2009-10',
+    },
+    {
+        title: 'Student Travel Fellowship, 4th Annual Department of Energy (DOE)- Environmental Remediation Sciences Program (ERSP) PI meeting, VA, USA 2009',
+    },
+    {
+        title: 'The ENVIRSAN Scholarship for pursuing Ph.D. in the Department of Energy, Environmental and Chemical Engineering. 2005-06',
+    },
+    {
+        title: 'National Talent Search Scholarship through a nationwide multi-stage exam, National Council of Educational Research and Training (India) 1993–99',
+    },
+]
+export const affiliations=[
+    {
+        title: 'American Chemical Society (ACS) 2007 - Present',
+    },
+    {
+        title: 'Geochemical Society 2012 - Present',
+    },
+    {
+        title: 'Water Environment Federation (WEF) 12/2005 - 02/2009',
+    },
 ]

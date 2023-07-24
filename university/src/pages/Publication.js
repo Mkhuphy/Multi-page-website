@@ -31,7 +31,7 @@ const Publication = () => {
           </div>
 
           <header>
-            <h6>Refereed Conference Papers</h6>
+            <h6>Referred Conference Papers</h6>
           </header>
           <div className="publications-content">
             <ul>

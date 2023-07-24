@@ -14,6 +14,8 @@ import Footer from "./components/layout/Footer";
 import TeamInfo from "./pages/TeamInfo";
 import Funding from "./pages/Funding";
 import Consultancy from "./pages/Consultancy";
+import Awards from "./pages/Awards";
+import Affiliations from "./pages/Affiliations";
 function App() {
   return (
     <div className="App">
@@ -31,6 +33,8 @@ function App() {
           <Route path="/group-activities" element={<GroupActivities />} />
           <Route path="/funding" element={<Funding />} />
           <Route path="/consultancy" element={<Consultancy />} />
+          <Route path="/awards" element={<Awards />} />
+          <Route path="/affiliations" element={<Affiliations />} />
         </Routes>
         <Footer />
       </BrowserRouter>
