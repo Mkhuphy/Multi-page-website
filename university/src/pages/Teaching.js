@@ -1,12 +1,12 @@
 import React from "react";
 import { educations } from "../utils/constants";
-const Education = () => {
+const Teaching = () => {
     return (
         <div className="education-wrapper">
             <div className="container">
                 <div className="education">
                     <header>
-                        <h3>Education</h3>
+                        <h3>Teaching</h3>
                     </header>
                     <div className="education-content">
                         <ul>
@@ -47,4 +47,4 @@ const Education = () => {
     );
 };
 
-export default Education;
+export default Teaching;

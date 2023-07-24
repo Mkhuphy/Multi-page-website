@@ -16,17 +16,23 @@ const Home = () => {
     <main className="home">
       <div className="container">
         <header className="header">
-          <h3>Welcome to the Aquatic Chemistry Laboratory</h3>
+          <h3>Specialization</h3>
           <p>
             <i>
-              Research in the Aquatic Chemistry Laboratory investigates chemical
-              reactions affecting the fate and transport of heavy metals,
-              radionuclides, and other inorganic contaminants in natural and
-              engineered aquatic systems. Specific topics include reactions at
-              the solid-water interface, drinking water treatment, contaminated
-              site remediation, energy byproducts in the environment,
-              biogeochemistry of metals in soils and sediments, and carbon
-              sequestration.
+            Environmental Engineering
+            </i>
+          </p>
+          <h3>Research Interest</h3>
+          <p>
+            <i>
+            Environmental geochemistry of heavy metals and inorganic 
+            contaminants, Investigate physical and chemical processes 
+            such as adsorption, precipitation, and reduction-oxidation 
+            occurring at mineral-water-microbial interfaces, and relate 
+            them to larger scales, Predict inorganic contaminant fate 
+            and transport through surface complexation and flow-through 
+            reactor modeling, Develop tools to target contaminant 
+            remediation in natural as well as engineered environments.
             </i>
           </p>
         </header>

@@ -30,10 +30,19 @@ const Navbar = () => {
                 <NavLink to={"/publications"}>Publications</NavLink>
               </li>
               <li>
-                <NavLink to={"/education"}>Education</NavLink>
+                <NavLink to={"/education"}>Teaching</NavLink>
               </li>
               <li>
                 <NavLink to={"/group-activities"}>Group Activities</NavLink>
+              </li>
+              <li>
+                <NavLink to={"/technology"}>Technology</NavLink>
+              </li>
+              <li>
+                <NavLink to={"/funding"}>Funding</NavLink>
+              </li>
+              <li>
+                <NavLink to={"/consultancy"}>Consultancy</NavLink>
               </li>
             </ul>
           </nav>

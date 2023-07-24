@@ -1,5 +1,5 @@
 import React from "react";
-import { publications } from "../utils/constants";
+import { conferences, publications } from "../utils/constants";
 
 const Publication = () => {
   return (
@@ -23,6 +23,19 @@ const Publication = () => {
           <div className="publications-content">
             <ul>
               {publications.map((item, index) => (
+                <li key={index} className="publications-list">
+                  <p>{item.title}</p>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <header>
+            <h6>Refereed Conference Papers</h6>
+          </header>
+          <div className="publications-content">
+            <ul>
+              {conferences.map((item, index) => (
                 <li key={index} className="publications-list">
                   <p>{item.title}</p>
                 </li>
