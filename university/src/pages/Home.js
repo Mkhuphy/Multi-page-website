@@ -36,7 +36,7 @@ const Home = () => {
             </i>
           </p>
         </header>
-        <section className="swiper-section-wrapper">
+        {/* <section className="swiper-section-wrapper">
           <header className="header">
             <h3>Research Highlights</h3>
           </header>
@@ -79,9 +79,9 @@ const Home = () => {
               {iconsReact.right}
             </div>
           </div>
-        </section>
-        <section className="recent-news">
-          <header>
+        </section> */}
+        {/* <section className="recent-news"> */}
+          {/* <header>
             <h3>Recent News</h3>
             <div className="line"></div>
           </header>
@@ -90,8 +90,8 @@ const Home = () => {
             {recentNews.map((item, index) => (
               <RecentNewsCard key={index} item={item} />
             ))}
-          </div>
-        </section>
+          </div> */}
+        {/* </section> */}
       </div>
     </main>
   );

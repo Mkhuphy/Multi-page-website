@@ -45,30 +45,30 @@ const Team = () => {
                             </ul>
                             </div>
                         </div>
-                        <div className="info-about-heading">
+                        {/* <div className="info-about-heading">
                             Current Ph.D. students
                         </div>
                         <div className="cards-wrapper">
                             {teams.map((team, index) => (
                                 <TeamCard item={team} key={index} />
                             ))}
-                        </div>
-                        <div className="info-about-heading">
+                        </div> */}
+                        {/* <div className="info-about-heading">
                             Undergraduate & Master Student Researchers
                         </div>
                         <div className="cards-wrapper">
                             {teams.map((team, index) => (
                                 <TeamCard item={team} key={index} />
                             ))}
-                        </div>
-                        <div className="info-about-heading">
+                        </div> */}
+                        {/* <div className="info-about-heading">
                             Visiting Students and Scholars
                         </div>
                         <div className="cards-wrapper">
                             {teams.map((team, index) => (
                                 <TeamCard item={team} key={index} />
                             ))}
-                        </div>
+                        </div> */}
                         <div className="info-about-heading">Supervision/ Advising</div>
                         <div className="cards-wrapper">
                             <div className="aluminis-card">
