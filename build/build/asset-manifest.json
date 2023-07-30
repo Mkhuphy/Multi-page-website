@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Multi-page-website/static/css/main.2dfd9eb8.css",
+    "main.js": "/Multi-page-website/static/js/main.54fc3105.js",
+    "index.html": "/Multi-page-website/index.html",
+    "main.2dfd9eb8.css.map": "/Multi-page-website/static/css/main.2dfd9eb8.css.map",
+    "main.54fc3105.js.map": "/Multi-page-website/static/js/main.54fc3105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dfd9eb8.css",
+    "static/js/main.54fc3105.js"
+  ]
+}
